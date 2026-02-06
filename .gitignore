@@ -208,5 +208,3 @@ __marimo__/
 
 # datasets
 .csv
-datasets/
-.json
