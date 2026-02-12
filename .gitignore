@@ -209,5 +209,5 @@ __marimo__/
 # datasets
 datasets/
 *.json
-*.gexf
+movie_graph.gexf
 *.csv
